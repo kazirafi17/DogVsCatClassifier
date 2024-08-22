@@ -1,4 +1,3 @@
-Here's a template for a README file for your CNN model using VGG16 with transfer learning and fine-tuning. You can customize it to fit your specific project details.
 
 ---
 
