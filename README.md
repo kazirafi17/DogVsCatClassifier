@@ -17,7 +17,6 @@ This project involves building a Convolutional Neural Network (CNN) model to cla
 - [Results](#results)
 - [Future Work](#future-work)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Model Architecture
@@ -114,10 +113,6 @@ The model shows good generalization with a higher validation accuracy than train
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or find any issues, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
 
